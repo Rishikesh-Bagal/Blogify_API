@@ -2,8 +2,8 @@
 
 > A professional RESTful API for a modern blogging platform.
 
-**Repository:** [Your GitHub Repo URL]  
-**Live Demo:** [Your Deployed URL]
+**Repository:** https://github.com/Rishikesh-Bagal/Blogify_API 
+**Live Demo:** https://blogify-api-v12h.onrender.com/
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18-green)
 ![Express.js](https://img.shields.io/badge/Express.js-v4-blue)
